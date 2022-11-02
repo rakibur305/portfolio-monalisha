@@ -172,6 +172,7 @@ label .logo {
     color: gray;
     margin: 0px auto 20px auto;
     text-align: center;
+    text-transform: none;
     width: 80%;
 
 }
@@ -196,6 +197,11 @@ label .logo {
 
 .about p {
     text-align: center;
+}
+
+.aboutme-dice .pragraph {
+    text-align: center;
+    text-transform: none;
 }
 
 .cv-button {

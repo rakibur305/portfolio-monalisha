@@ -147,6 +147,11 @@
       text-align: left;
   }
 
+  .aboutme-dice .pragraph {
+      text-align: left;
+      text-transform: none;
+  }
+
   /* About Me Ends  */
   /* Profetional  Experiance Start  */
   .profetional {
